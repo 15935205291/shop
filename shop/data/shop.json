@@ -1,0 +1,11 @@
+[
+	{"id":1,"title":"小米note2","price":2799,"pic":"images/1.jpg"},
+	{"id":2,"title":"OPPO R9s","price":2799,"pic":"images/2.jpg"},
+	{"id":3,"title":"荣耀6X","price":999,"pic":"images/3.jpg"},
+	{"id":4,"title":"三星C9 Pro","price":3199,"pic":"images/4.jpg"},
+	{"id":5,"title":"Z11 极光蓝","price":2499,"pic":"images/5.jpg"},
+	{"id":6,"title":"iPhone7 Plus","price":6388,"pic":"images/6.jpg"},
+	{"id":7,"title":"魅蓝 3s","price":699,"pic":"images/7.jpg"},
+	{"id":8,"title":"乐Max2","price":2499,"pic":"images/8.jpg"},
+	{"id":9,"title":"三星 Galaxy S7 Eage","price":5688,"pic":"images/9.jpg"}
+]
